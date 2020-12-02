@@ -1,0 +1,15 @@
+-Demote is leaving the field, or to make a summon leave the field
+-Battle is to attack, whether it be an opposing summon or directly
+-Abled is the card being turned to face your opponent, while disabled is a card being turned sideways
+-Strikers can battle any opposing summons but not directly, Tech can only battle opposing summons in the same column but if there are no opposing summons in their column they can battle directly.
+-Tiers on summons represent the approximate power level of the card and it’s uses.
+-Tier positions as zones (certain tiers can only be placed on corresponding tier position) 
+-Damage indicated by number, when battling an opposing summon send cards from the top of the deck equal to the difference between the summon’s damage, when battling directly send cards from the top of your opponents deck to the end zone equal to the damage of the battling summon
+-Cards have abilities
+-Battle positions (able/attack and disabled/cannot attack)
+-When a unit battles it becomes disabled
+-To place a tier 2 or higher summon you must demote summons who's total tiers equal the tier 2 or higher summon's tier, you may place tier 1 summons without demoting anything
+-Phaktions (various types of summon categories) determine what cards you are allowed to use in any given deck-
+-At the start of the game, after the turn order is chosen, both players may mulligan any cards in their hand once.
+-Regular, Weapon and set Invocations may be casted during the main phase and final cast, Counter Invocations are only able to be casted in response to something, what they respond to is depicted in their ability
+-If a card’s ability were to break one of these rules, the cards ability takes precedence
