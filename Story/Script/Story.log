@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.10.21)  1 DEC 2020 20:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.10.21)  1 DEC 2020 20:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -605,32 +605,32 @@ Underfull \hbox (badness 10000) detected at line 75
 \tf@toc=\write5
 \openout5 = `Story.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 77.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 77.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 83.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 83.
  (/home/mustafif/Desktop/Phaktionz/Story/Script/Story.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 77.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 77.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 83.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 83.
 Package rerunfilecheck Info: File `Story.out' has not changed.
 (rerunfilecheck)             Checksum: AF6263B1F18F7A2902F1714F339421DB;138.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 77.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 83.
  ) 
 Here is how much of TeX's memory you used:
- 8768 strings out of 481239
- 129069 string characters out of 5920376
+ 8770 strings out of 481239
+ 129093 string characters out of 5920376
  420174 words of memory out of 5000000
- 23934 multiletter control sequences out of 15000+600000
- 539056 words of font info for 46 fonts, out of 8000000 for 9000
+ 23935 multiletter control sequences out of 15000+600000
+ 539415 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,11n,45p,251b,315s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on /home/mustafif/Desktop/Phaktionz/Story/Script/Story.pdf (3 pages, 61820 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on /home/mustafif/Desktop/Phaktionz/Story/Script/Story.pdf (3 pages, 71217 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
- 53 compressed objects within 1 object stream
+ 68 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
  9 named destinations out of 1000 (max. 500000)
  25 words of extra memory for PDF output out of 10000 (max. 10000000)
 
