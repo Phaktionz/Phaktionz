@@ -1,4 +1,4 @@
-\documentclass[12pt, letterpaper]{article}
+\documentclass[12pt, letterpaper]{memoir}
 \title{Phaktionz-Story}
 \author{Mustafif Khan}
 \usepackage{color}
@@ -9,12 +9,69 @@ linkcolor=black, % color TOC links in blue
 urlcolor=red, % color URLs in red
 linktoc=all % 'all' will create links for everything in the TOC
 }
+\usepackage{dramatist}
+\usepackage{calc}
+\usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{\thetitle}
+\rhead{\theauthor}
+\rfoot{Page \thepage}
 \begin{document}
 \maketitle
 \pagenumbering{arabic}
 \newpage
 \tableofcontents
 \newpage
+%Characters
+\Character[Main Character]{Zane}{Zane}
+%
+\Character[Male Companion]{Lulo}{Lulo}
+\Character[Coach/Shop Owner]{Finn}{Finn}
+\Character[Friend/"Rival"]{Percy}{Percy}
+\Character[Mentee]{Brexton}{Brexton}
+%
+%Villians 
+\Character[Main Antagonist Character]{Zeppelin}{Zeppelin}
+\Character[Main Rival Character]{Hayes}{Hayes}
+%
+\Character[Main Henchman]{Syco}{Syco}
+\Character[Former Champion]{Nimu}{Nimu}
+%
+%Origins
+\Character[Prestige, Mage Origin]{Prestige}{Prestige}
+%
+\setlength{\speakswidth}{\widthof{\speaksfont Therapist}}
+\addtolength{\speakswidth}{\Dlabelsep}
+\addtolength{\speaksindent}{\speakswidth}
 
-
+%Each Arcs will be represented as an act
+\act[\\The Origin's Quest]
+%Each Episode will be used a scene 
+\scene[\textbf{First Game}]
+\StageDir{
+    \begin{center}
+        We start off seeing the war of the Phaktionz’ Realms, Prestige walks in
+    \end{center}
+}
+\begin{drama}
+    \Prestigespeaks{My bigotry has blinded me to this chaos, we must hurry, our solution will not be found here!}
+\end{drama}
+\StageDir{
+    \begin{center}
+        Zane suddenly wakes up, confused about his dream, but doesn't think much of it. He looks around 
+    \end{center}
+}
+\begin{drama}
+    \Zanespeaks{I swear I heard a heard around here somewhere?}
+\end{drama}
+\StageDir{
+    \begin{center}
+        Looks at his deck
+    \end{center}
+}
+\begin{drama}
+    \Zanespeaks{I can’t get my head scrambled today, I have a mission I need to complete, I need to redeem my father!}
+\end{drama}
 \end{document}
