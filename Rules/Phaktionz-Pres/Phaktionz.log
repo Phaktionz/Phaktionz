@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.10.21)  2 DEC 2020 16:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.10.21)  2 DEC 2020 20:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/mustafif/Desktop/Phaktionz/Rules/Phaktionz-Pres/Phaktionz.tex
-(/home/mustafif/Desktop/Phaktionz/Rules/Phaktionz-Pres/Phaktionz.tex
+**/home/mustafif/Phaktionz/Rules/Phaktionz-Pres/Phaktionz.tex
+(/home/mustafif/Phaktionz/Rules/Phaktionz-Pres/Phaktionz.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14> (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2019/09/29 v3.57 A class for typesetting presentations
@@ -507,7 +507,7 @@ Package: inputenc 2018/08/11 v1.3c Input encoding file
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count311
 \l__pdf_internal_box=\box73
-) (/home/mustafif/Desktop/Phaktionz/Rules/Phaktionz-Pres/Phaktionz.aux)
+) (/home/mustafif/Phaktionz/Rules/Phaktionz-Pres/Phaktionz.aux)
 \openout1 = `Phaktionz.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
@@ -594,7 +594,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 36.
 LaTeX Info: Redefining \pageref on input line 36.
 LaTeX Info: Redefining \nameref on input line 36.
- (/home/mustafif/Desktop/Phaktionz/Rules/Phaktionz-Pres/Phaktionz.out) (/home/mustafif/Desktop/Phaktionz/Rules/Phaktionz-Pres/Phaktionz.out)
+ (/home/mustafif/Phaktionz/Rules/Phaktionz-Pres/Phaktionz.out) (/home/mustafif/Phaktionz/Rules/Phaktionz-Pres/Phaktionz.out)
 \@outlinefile=\write5
 \openout5 = `Phaktionz.out'.
 
@@ -659,7 +659,7 @@ Dictionary: translator-months-dictionary, Language: English
 Dictionary: translator-numbers-dictionary, Language: English 
 ) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (/home/mustafif/Desktop/Phaktionz/Rules/Phaktionz-Pres/Phaktionz.nav)
+) (/home/mustafif/Phaktionz/Rules/Phaktionz-Pres/Phaktionz.nav)
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <6> not available
 (Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 36.
@@ -681,7 +681,7 @@ LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inpu
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 ) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/mustafif/Desktop/Phaktionz/Rules/Phaktionz-Pres/Phaktionz.toc) [2
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/mustafif/Phaktionz/Rules/Phaktionz-Pres/Phaktionz.toc) [2
 
 ]
 <images/field.png, id=99, 1059.96pt x 819.06pt>
@@ -696,13 +696,13 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <10> not available
 
 [3
 
- </home/mustafif/Desktop/Phaktionz/Rules/Phaktionz-Pres/images/field.png>] [4
+ </home/mustafif/Phaktionz/Rules/Phaktionz-Pres/images/field.png>] [4
 
 ] [5
 
-] (/home/mustafif/Desktop/Phaktionz/Rules/Phaktionz-Pres/Phaktionz.toc) [6
+] (/home/mustafif/Phaktionz/Rules/Phaktionz-Pres/Phaktionz.toc) [6
 
-] (/home/mustafif/Desktop/Phaktionz/Rules/Phaktionz-Pres/Phaktionz.toc) [7
+] (/home/mustafif/Phaktionz/Rules/Phaktionz-Pres/Phaktionz.toc) [7
 
 ]
 \tf@nav=\write6
@@ -716,7 +716,7 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <10> not available
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 90.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 90.
- (/home/mustafif/Desktop/Phaktionz/Rules/Phaktionz-Pres/Phaktionz.aux)
+ (/home/mustafif/Phaktionz/Rules/Phaktionz-Pres/Phaktionz.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 90.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 90.
 Package rerunfilecheck Info: File `Phaktionz.out' has not changed.
@@ -724,14 +724,14 @@ Package rerunfilecheck Info: File `Phaktionz.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  18118 strings out of 481239
- 350507 string characters out of 5920376
+ 350339 string characters out of 5920376
  597208 words of memory out of 5000000
  32905 multiletter control sequences out of 15000+600000
  540885 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 58i,15n,67p,857b,687s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 58i,15n,67p,849b,687s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb>
-Output written on /home/mustafif/Desktop/Phaktionz/Rules/Phaktionz-Pres/Phaktionz.pdf (7 pages, 98113 bytes).
+Output written on /home/mustafif/Phaktionz/Rules/Phaktionz-Pres/Phaktionz.pdf (7 pages, 98232 bytes).
 PDF statistics:
  261 PDF objects out of 1000 (max. 8388607)
  230 compressed objects within 3 object streams
