@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1606872589 "/home/mustafif/Desktop/Phaktionz/Story/Script/Story.tex" "/home/mustafif/Desktop/Phaktionz/Story/Script/Story.pdf" "Story" 1606872590
+["pdflatex"] 1606874624 "/home/mustafif/Desktop/Phaktionz/Story/Script/Story.tex" "/home/mustafif/Desktop/Phaktionz/Story/Script/Story.pdf" "Story" 1606874625
   "/etc/texmf/web2c/texmf.cnf" 1603255396 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/mustafif/Desktop/Phaktionz/Story/Script/Story.aux" 1606872590 1028 7a451b04a2a303e17f57690fda15bc99 ""
-  "/home/mustafif/Desktop/Phaktionz/Story/Script/Story.tex" 1606872587 2252 74dede3b0f044f334f8df7c512b6aa39 ""
+  "/home/mustafif/Desktop/Phaktionz/Story/Script/Story.aux" 1606874625 1028 dc948ec7eeadc2f9f83dd4304bb1e55b ""
+  "/home/mustafif/Desktop/Phaktionz/Story/Script/Story.tex" 1606874623 3388 45194e58fd5310af1e8bc5376ea6f05b ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbxti10.tfm" 1136768653 1532 9162035f4e7176612125649e348e2195 ""
@@ -74,15 +74,15 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1603326207 4770781 1ed1abab22da9c3e2cc82e4db562318b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1603326333 8260558 76481e07156fe763e6e634ffb456f048 ""
-  "Story.aux" 1606872590 1028 7a451b04a2a303e17f57690fda15bc99 "pdflatex"
-  "Story.out" 1606872590 138 af6263b1f18f7a2902f1714f339421db "pdflatex"
-  "Story.tex" 1606872587 2252 74dede3b0f044f334f8df7c512b6aa39 ""
-  "Story.toc" 1606872590 148 b87a895fc5613a3ae5ff2017c566bfd5 "pdflatex"
+  "Story.aux" 1606874625 1028 dc948ec7eeadc2f9f83dd4304bb1e55b "pdflatex"
+  "Story.out" 1606874625 138 af6263b1f18f7a2902f1714f339421db "pdflatex"
+  "Story.tex" 1606874623 3388 45194e58fd5310af1e8bc5376ea6f05b ""
+  "Story.toc" 1606874625 148 b87a895fc5613a3ae5ff2017c566bfd5 "pdflatex"
   (generated)
-  "Story.toc"
   "/home/mustafif/Desktop/Phaktionz/Story/Script/Story.log"
   "/home/mustafif/Desktop/Phaktionz/Story/Script/Story.pdf"
   "Story.aux"
-  "Story.pdf"
   "Story.out"
+  "Story.pdf"
+  "Story.toc"
   "Story.log"
