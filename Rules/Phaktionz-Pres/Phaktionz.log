@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.10.21)  2 DEC 2020 21:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.10.21)  3 DEC 2020 22:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -700,7 +700,11 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <10> not available
 
  </home/mustafif/Phaktionz/Rules/Phaktionz-Pres/images/field.png>] [5
 
-] [6
+]
+Overfull \vbox (29.64597pt too high) detected at line 99
+ []
+
+[6
 
 ] (/home/mustafif/Phaktionz/Rules/Phaktionz-Pres/Phaktionz.toc) [7
 
@@ -716,24 +720,24 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <10> not available
 \tf@snm=\write8
 \openout8 = `Phaktionz.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 105.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 105.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
  (/home/mustafif/Phaktionz/Rules/Phaktionz-Pres/Phaktionz.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 105.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 105.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 113.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 113.
 Package rerunfilecheck Info: File `Phaktionz.out' has not changed.
 (rerunfilecheck)             Checksum: 16FA3A4D9341555977D8BFE4EC1F5DD1;162.
  ) 
 Here is how much of TeX's memory you used:
  18157 strings out of 481239
  351310 string characters out of 5920376
- 597208 words of memory out of 5000000
+ 604156 words of memory out of 5000000
  32942 multiletter control sequences out of 15000+600000
  540885 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,15n,67p,849b,687s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb>
-Output written on /home/mustafif/Phaktionz/Rules/Phaktionz-Pres/Phaktionz.pdf (8 pages, 105297 bytes).
+Output written on /home/mustafif/Phaktionz/Rules/Phaktionz-Pres/Phaktionz.pdf (8 pages, 105581 bytes).
 PDF statistics:
  290 PDF objects out of 1000 (max. 8388607)
  257 compressed objects within 3 object streams
