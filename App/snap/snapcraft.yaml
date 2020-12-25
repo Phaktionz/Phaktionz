@@ -21,7 +21,5 @@ parts:
        - git
     build-snaps: 
         - go/stable
-    organize: 
-        go.sh: bin/
         
  #bin/phaktionz
