@@ -10,14 +10,15 @@ confinement: devmode # use 'strict' once you have the right plugs and slots
 parts:
   phaktionz:
     plugin: go
-    go-importpath: https://github.com/Mustafif/Phaktionz/tree/main/App/Wiki
-    source: https://github.com/Mustafif/Phaktionz
+    #plugin: autotools
+    go-importpath: https://github.com/Mustafif/Phaktionz.git
+    source: https://github.com/Mustafif/Phaktionz.git
     source-type: git
     build-packages: 
-       - gcc
+       #- gcc
        - git
     build-snaps: 
         - go/stable
 apps: 
     phaktionz:
-        command: bin/run
+        command: bin/go.sh #bin/phaktionz
