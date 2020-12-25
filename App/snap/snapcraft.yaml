@@ -6,7 +6,9 @@ description:
     The Goal for this snap is a way to access the Phaktionz wiki, and information. 
 grade: devel # must be 'stable' to release into candidate/stable channels
 confinement: devmode # use 'strict' once you have the right plugs and slots
-
+apps: 
+    phaktionz:
+        command: bin/go.sh
 parts:
   phaktionz:
     plugin: go
@@ -19,6 +21,7 @@ parts:
        - git
     build-snaps: 
         - go/stable
-apps: 
-    phaktionz:
-        command: bin/go.sh #bin/phaktionz
+    organize: 
+        go.sh: bin/
+        
+ #bin/phaktionz
