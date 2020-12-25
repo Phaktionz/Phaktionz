@@ -1,13 +1,23 @@
-name: Phaktionz # you probably want to 'snapcraft register <name>'
+name: phaktionz # you probably want to 'snapcraft register <name>'
 base: core18 # the base snap is the execution environment for this snap
 version: '0.1' 
 summary: Wiki for Phaktionz TCG # 79 char long summary
-description: |
-The Goal for this snap is a way to access the Phaktionz wiki, and information. 
-
+description: 
+    The Goal for this snap is a way to access the Phaktionz wiki, and information. 
 grade: devel # must be 'stable' to release into candidate/stable channels
 confinement: devmode # use 'strict' once you have the right plugs and slots
 
 parts:
   phaktionz:
     plugin: go
+    go-importpath: https://github.com/Mustafif/Phaktionz/tree/main/App/Wiki
+    source: https://github.com/Mustafif/Phaktionz
+    source-type: git
+    build-packages: 
+       - gcc
+       - git
+    build-snaps: 
+        - go/stable
+apps: 
+    phaktionz:
+        command: ./run
