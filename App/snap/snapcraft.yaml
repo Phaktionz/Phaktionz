@@ -20,4 +20,4 @@ parts:
         - go/stable
 apps: 
     phaktionz:
-        command: ./run
+        command: bin/run
