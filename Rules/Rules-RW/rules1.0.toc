@@ -1,0 +1,2 @@
+\contentsline {section}{\numberline {1}Basics}{3}{section.1}%
+\contentsline {paragraph}{How to Win? \\}{3}{section*.2}%

@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="968e479a-3ffa-4f28-9874-49fb86d8d14b" name="Default Changelist" comment="Added Season 1/2 Character">
+      <change beforePath="$PROJECT_DIR$/../Cards/Decks/.~lock.Mustafif-Decks.ods#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cards/Decks/Mustafif-Decks.ods" beforeDir="false" afterPath="$PROJECT_DIR$/../Cards/Decks/Mustafif-Decks.ods" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rules/Layouts /.~lock.field.odg#" beforeDir="false" afterPath="$PROJECT_DIR$/../Rules/Layouts /.~lock.field.odg#" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rules/Layouts /field.odg" beforeDir="false" afterPath="$PROJECT_DIR$/../Rules/Layouts /field.odg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +41,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Cards/Simulation" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -71,6 +74,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
