@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="968e479a-3ffa-4f28-9874-49fb86d8d14b" name="Default Changelist" comment="Added Season 1/2 Character">
-      <change afterPath="$PROJECT_DIR$/.~lock.Characters.xlsx#" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Characters.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Characters.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Characters.iml" afterDir="false" />
+    <list default="true" id="968e479a-3ffa-4f28-9874-49fb86d8d14b" name="Default Changelist" comment="Made Character Automation Program">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/character.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Characters.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Characters.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,8 +91,23 @@
       <option name="presentableId" value="Default" />
       <updated>1609370108890</updated>
       <workItem from="1609370113671" duration="2848000" />
-      <workItem from="1609373848684" duration="738000" />
+      <workItem from="1609373848684" duration="3084000" />
     </task>
+    <task id="LOCAL-00001" summary="Made Character Automation Program">
+      <created>1609374843526</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609374843526</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Made Character Automation Program">
+      <created>1609374872012</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609374872013</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,9 +129,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Start of Character Page, making plans of static website" />
     <MESSAGE value="Added Season 1/2 Character" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Season 1/2 Character" />
+    <MESSAGE value="Made Character Automation Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made Character Automation Program" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/char_py$char.coverage" NAME="char Coverage Results" MODIFIED="1609374373457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/char_py$char.coverage" NAME="char Coverage Results" MODIFIED="1609374897769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
