@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.10.21)  13 JAN 2021 13:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.10.21)  13 JAN 2021 14:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/mustafif/Phaktionz/Rules/Rules-Tex/rules.tex
-(/home/mustafif/Phaktionz/Rules/Rules-Tex/rules.tex
+**/home/mustafif/Phaktionz/Rules/Rules(V1.3)/rulesv1.3.tex
+(/home/mustafif/Phaktionz/Rules/Rules(V1.3)/rulesv1.3.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
@@ -131,9 +131,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
 )
 \Hy@SectionHShift=\skip49
-)
-Package hyperref Info: Option `colorlinks' set `true' on input line 12.
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
  (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
@@ -146,41 +144,60 @@ Package graphics Info: Driver file: pdftex.def on input line 105.
 )
 \Gin@req@height=\dimen139
 \Gin@req@width=\dimen140
-) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen141
+\captionmargin@=\dimen142
+\captionwidth=\dimen143
+\caption@tempdima=\dimen144
+\caption@indent=\dimen145
+\caption@parindent=\dimen146
+\caption@hangindent=\dimen147
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count186
+\c@continuedfloat=\count187
+Package caption Info: hyperref package is loaded.
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 14.
+ (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count186
+\l__kernel_color_stack_int=\count188
 \l__pdf_internal_box=\box45
-) (/home/mustafif/Phaktionz/Rules/Rules-Tex/rules.aux)
-\openout1 = `rules.aux'.
+) (/home/mustafif/Phaktionz/Rules/Rules(V1.3)/rulesv1.3.aux)
+\openout1 = `rulesv1.3.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count187
-\scratchdimen=\dimen141
+\scratchcounter=\count189
+\scratchdimen=\dimen148
 \scratchbox=\box46
-\nofMPsegments=\count188
-\nofMParguments=\count189
+\nofMPsegments=\count190
+\nofMParguments=\count191
 \everyMPshowfont=\toks15
-\MPscratchCnt=\count190
-\MPscratchDim=\dimen142
-\MPnumerator=\count191
-\makeMPintoPDFobject=\count192
+\MPscratchCnt=\count192
+\MPscratchDim=\dimen149
+\MPnumerator=\count193
+\makeMPintoPDFobject=\count194
 \everyMPtoPDFconversion=\toks16
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -189,7 +206,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 \AtBeginShipoutBox=\box47
-Package hyperref Info: Link coloring ON on input line 15.
+Package hyperref Info: Link coloring ON on input line 16.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -197,55 +214,70 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count193
+\c@section@level=\count195
 )
-LaTeX Info: Redefining \ref on input line 15.
-LaTeX Info: Redefining \pageref on input line 15.
-LaTeX Info: Redefining \nameref on input line 15.
- (/home/mustafif/Phaktionz/Rules/Rules-Tex/rules.out) (/home/mustafif/Phaktionz/Rules/Rules-Tex/rules.out)
+LaTeX Info: Redefining \ref on input line 16.
+LaTeX Info: Redefining \pageref on input line 16.
+LaTeX Info: Redefining \nameref on input line 16.
+ (/home/mustafif/Phaktionz/Rules/Rules(V1.3)/rulesv1.3.out) (/home/mustafif/Phaktionz/Rules/Rules(V1.3)/rulesv1.3.out)
 \@outlinefile=\write3
-\openout3 = `rules.out'.
+\openout3 = `rulesv1.3.out'.
 
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 17.
+(Font)              <14.4> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 17.
+(Font)              <7> on input line 18.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/mustafif/Phaktionz/Rules/Rules-Tex/rules.toc)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/mustafif/Phaktionz/Rules/Rules(V1.3)/rulesv1.3.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+)
 \tf@toc=\write4
-\openout4 = `rules.toc'.
+\openout4 = `rulesv1.3.toc'.
 
  [2]
-<field.png, id=35, 963.6pt x 722.7pt>
+<field.png, id=47, 1059.96pt x 819.06pt>
 File: field.png Graphic file (type png)
 <use field.png>
-Package pdftex.def Info: field.png  used on input line 39.
-(pdftex.def)             Requested size: 240.89941pt x 180.67455pt.
- [3 </home/mustafif/Phaktionz/Rules/Rules-Tex/field.png>] [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 92.
- [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 92.
- (/home/mustafif/Phaktionz/Rules/Rules-Tex/rules.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 92.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 92.
-Package rerunfilecheck Info: File `rules.out' has not changed.
-(rerunfilecheck)             Checksum: 9A5717BC596FCE408CC5641F45D44E81;145.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 92.
+Package pdftex.def Info: field.png  used on input line 23.
+(pdftex.def)             Requested size: 264.98935pt x 204.7645pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 24.
+See the caption package documentation for explanation.
+
+[3 </home/mustafif/Phaktionz/Rules/Rules(V1.3)/field.png>] [4] [5] [6]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 125.
+ [7]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 125.
+ (/home/mustafif/Phaktionz/Rules/Rules(V1.3)/rulesv1.3.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 125.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 125.
+Package rerunfilecheck Info: File `rulesv1.3.out' has not changed.
+(rerunfilecheck)             Checksum: E08CF4A0311E0C74AFE3C023A95DCA44;276.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 125.
  ) 
 Here is how much of TeX's memory you used:
- 5251 strings out of 481239
- 81645 string characters out of 5920376
- 340298 words of memory out of 5000000
- 20420 multiletter control sequences out of 15000+600000
- 535098 words of font info for 33 fonts, out of 8000000 for 9000
+ 6342 strings out of 481239
+ 101650 string characters out of 5920376
+ 358183 words of memory out of 5000000
+ 21503 multiletter control sequences out of 15000+600000
+ 537843 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,7n,29p,246b,372s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,6n,42p,261b,368s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on /home/mustafif/Phaktionz/Rules/Rules-Tex/rules.pdf (5 pages, 67191 bytes).
+Output written on /home/mustafif/Phaktionz/Rules/Rules(V1.3)/rulesv1.3.pdf (7 pages, 95683 bytes).
 PDF statistics:
- 91 PDF objects out of 1000 (max. 8388607)
- 77 compressed objects within 1 object stream
- 27 named destinations out of 1000 (max. 500000)
- 30 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 104 PDF objects out of 1000 (max. 8388607)
+ 88 compressed objects within 1 object stream
+ 23 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
