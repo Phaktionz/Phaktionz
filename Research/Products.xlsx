@@ -1,0 +1,17 @@
+Product: 11,Card Qty,Price,Paper Cost,Deck Playability,,,,Small,Individual
+Decks,,,,,,,,Large,Professional
+Starter Deck,50,$8.50,$0.50,Poor,,,,,
+Structure Deck,60,$11.00,$0.60,Decent,,,,,
+Tri Structure Deck,180,$26.00,$1.80,Very Good,,,,,
+Synthesis Structure Deck,85,$15.00,$0.85,Decent,,,,,
+Synthesis Tri Deck,255,$40.00,$2.55,Very Good,,,,,
+,,,,,,,,,
+Boosters ,Card Per Pack,Cards Total,Price,Price Per Pack,Rarities,,,,
+Booster Box (50 packs),10,500,$60.00,$1.20,Basic to Secrets,,,,
+Booster Box Special (100 packs + good cards),15,1500,$150.00,$1.50,Rares to Supreme Rares,,,,
+Faction Booster (20 packs specific to Faction),8,160,$20.00,$1.00,Basic to Secrets,,,,
+"Booster Set (20 booster packs, 10 special, 10 faction)","10, 15, 8",430,$50.00,$1.25,Basics to Supremes,,,,
+,,,,,,,,,
+"Constructors (Being able to make 2 decks or so, from a set)",Cards,Price,,,,,,,
+Faction Constructor Standard (Staples + Faction Specifics),120,$20.00,,,,,,,
+Category Constructor Sythesis(Staples + Faction Specifics),170,$30.00,,,,,,,
