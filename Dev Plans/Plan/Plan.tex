@@ -1,7 +1,7 @@
 \documentclass[12pt, letterpaper]{article}
-\title{Phaktionz TCG Development}
+\title{Phaktionz TCG \\Development Plan}
 \author{Casual Card Cafe | Phaktionz Rules Commitee}
-\date{Version 1.3}
+\date{Version 2.4}
 \usepackage{color}
 \usepackage{hyperref}
 \usepackage{graphicx}
@@ -42,13 +42,13 @@ In any format:
         \item End Phase (Ends turn)
      \end{itemize}
 \end{itemize}
-\paragraph{Standard (Version 1.1.3): \\}
+\paragraph{Standard (Version 1.*.*): \\}
 \begin{itemize}
     \item This format is the most common format that is played, and considered the default playing style. 
     \item A Deck must contain 50 cards 
     \item A Deck must contain Summons belonging to only one Faction. 
 \end{itemize}
-\paragraph{Synthesis (Version 2.1.3): \\}
+\paragraph{Synthesis (Version 2.*.*): \\}
 \begin{itemize}
     \item This format is the mix and match sort of playstyle that will bring an interesting battle upon yourself. 
     \item A Deck must contain at least 50 cards, and a max of 75. 
@@ -127,65 +127,16 @@ In any format:
         and the Summon is demoted, except if it's Tier 3+. 
     \end{itemize} 
 \end{itemize}
-
+% CP V1.1, Promote V1.2 LU V1.3 Disaster V2.4
 \newpage
-\subsection{Creation Pile}
-Creation Pile is a pile located in the middle between your Deck and Deck Out Pile. It's basic function is that 
-cards in it may be added to your hand if they satisfy the Card's Create condition. 
-
-\begin{itemize}
-    \item Limit: 10 (In Format V1 \& V2)
-    \item Abilities that include 'CP' refer to Creation Pile
-    \item The goal of Creation Pile is to have a last resort to yourself
-    \item CP Cards are identified with CP in the top left along where Tier or Invocation type is located. 
-\end{itemize}
-
-\begin{center}
-    \includegraphics[scale = 0.25]{images/CPCardTemplate.png}
-    \captionof{figure}{Creation Pile Summon Template}
-\end{center}
-
+\include{V1.1/V1.1}
 \newpage
-\subsection{Promote}
-Promote brings forth two new Tiers, 0 and 4. A Tier 0/4 Summon has a \textbf{limit of 1.}
-\paragraph{Tier 0: \\}
-Tier 0's are Summons that are placed and have a realm invocation ability, as well as having these attributes: 
-\begin{itemize}
-    \item Tier : 0
-    \item DMG: 0
-    \item Type: T/S
-    \item Promote: Yes
-    \item All Tier 0's may not be battled, and treated as a Realm Invocation
-\end{itemize}
-\textbf{Promote: } To Promote a Tier 0, is to flip it to it's other side where it resides as Tier 4, and 
-is placed at the Tier 3 location. To Promote, the player must satisfy a Promote condition that is decribed on the Card. 
-If you control a Summons on the Battlefield and choose to Promote, the Summons will be demoted.
-
-\paragraph{Tier 4: \\}
-Tier 4's are usually a win condition card and are built to not stay on the field for long. While you 
-control a Tier 4 you cannot have any other Summons on the Battlefield. As well as that, they have the 
-following attributes: 
-\begin{itemize}
-    \item Tier: 4
-    \item DMG: 7/8
-    \item Type: T/S
-    \item All Tier 4's cannot be demoted in Battle nor be demoted by any Abilities. 
-    \item At the end of each End Phase the player takes Damage equal to it's DMG. 
-    \begin{itemize}
-        \item Refusal to pay will result in it being exiled. 
-    \end{itemize}
-\end{itemize}
+\include{V1.2/V1.2}
 \newpage
-\section{Level Up!}
-Level Up! is a new type of Summon with the Tier +, these Summons begin at Tier 1 and goes up to 3, 
-having a condition for it to Level Up. To signify this, a die or counter may be used.
-\par When a Summon levels up, it is able to only use the ability it's level is at, meaning if it at 
-Tier 3, then it may not use it's Tier 2 ability.
-\par When a Tier + Summon is demoted, it is actually only brought down to it's previous 
-level, and if it is at Tier 1, then it is demoted. This also means, you are able to place Summons equal to
-it's level on the Battlefield, then it's level would be decreased to it's previous one. 
-\par There is a \textbf{limit of 4} Tier + that can be in a deck for all Formats, and only one can be controlled
-on the Battlefield.  
+\include{V1.3/V1.3}
+\newpage
+\include{V2.4/V2.4}
 
-\par Level Up Card Template Coming Soon...
+
+\section{Factions}
 \end{document}

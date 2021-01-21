@@ -1,10 +1,10 @@
-PWD /home/mustafif/Phaktionz/Dev Plans/V1.3
+PWD /home/mustafif/Phaktionz/Dev Plans/Plan
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/mustafif/Phaktionz/Dev Plans/V1.3/V1.3.tex
-OUTPUT /home/mustafif/Phaktionz/Dev Plans/V1.3/V1.3.log
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/Plan.tex
+OUTPUT /home/mustafif/Phaktionz/Dev Plans/Plan/Plan.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
@@ -79,9 +79,17 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-INPUT /home/mustafif/Phaktionz/Dev Plans/V1.3/V1.3.aux
-INPUT /home/mustafif/Phaktionz/Dev Plans/V1.3/V1.3.aux
-OUTPUT /home/mustafif/Phaktionz/Dev Plans/V1.3/V1.3.aux
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/Plan.aux
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/Plan.aux
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/V1.1/V1.1.aux
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/V1.1/V1.1.aux
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/V1.2/V1.2.aux
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/V1.2/V1.2.aux
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/V1.3/V1.3.aux
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/V1.3/V1.3.aux
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/V2.4/V2.4.aux
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/V2.4/V2.4.aux
+OUTPUT /home/mustafif/Phaktionz/Dev Plans/Plan/Plan.aux
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
@@ -94,14 +102,14 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-INPUT /home/mustafif/Phaktionz/Dev Plans/V1.3/V1.3.out
-INPUT /home/mustafif/Phaktionz/Dev Plans/V1.3/V1.3.out
-INPUT /home/mustafif/Phaktionz/Dev Plans/V1.3/V1.3.out
-INPUT /home/mustafif/Phaktionz/Dev Plans/V1.3/V1.3.out
-OUTPUT /home/mustafif/Phaktionz/Dev Plans/V1.3/V1.3.pdf
-INPUT /home/mustafif/Phaktionz/Dev Plans/V1.3/V1.3.out
-INPUT /home/mustafif/Phaktionz/Dev Plans/V1.3/V1.3.out
-OUTPUT /home/mustafif/Phaktionz/Dev Plans/V1.3/V1.3.out
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/Plan.out
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/Plan.out
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/Plan.out
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/Plan.out
+OUTPUT /home/mustafif/Phaktionz/Dev Plans/Plan/Plan.pdf
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/Plan.out
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/Plan.out
+OUTPUT /home/mustafif/Phaktionz/Dev Plans/Plan/Plan.out
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
@@ -109,8 +117,8 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /home/mustafif/Phaktionz/Dev Plans/V1.3/V1.3.toc
-INPUT /home/mustafif/Phaktionz/Dev Plans/V1.3/V1.3.toc
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/Plan.toc
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/Plan.toc
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
@@ -120,21 +128,41 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-OUTPUT /home/mustafif/Phaktionz/Dev Plans/V1.3/V1.3.toc
-INPUT /home/mustafif/Phaktionz/Dev Plans/V1.3/images/field.png
-INPUT /home/mustafif/Phaktionz/Dev Plans/V1.3/images/field.png
-INPUT /home/mustafif/Phaktionz/Dev Plans/V1.3/images/field.png
+OUTPUT /home/mustafif/Phaktionz/Dev Plans/Plan/Plan.toc
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/images/field.png
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/images/field.png
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/images/field.png
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm
-INPUT /home/mustafif/Phaktionz/Dev Plans/V1.3/images/CardTemplate.png
-INPUT /home/mustafif/Phaktionz/Dev Plans/V1.3/images/CardTemplate.png
-INPUT /home/mustafif/Phaktionz/Dev Plans/V1.3/images/CardTemplate.png
-INPUT /home/mustafif/Phaktionz/Dev Plans/V1.3/images/CPCardTemplate.png
-INPUT /home/mustafif/Phaktionz/Dev Plans/V1.3/images/CPCardTemplate.png
-INPUT /home/mustafif/Phaktionz/Dev Plans/V1.3/images/CPCardTemplate.png
-INPUT /home/mustafif/Phaktionz/Dev Plans/V1.3/V1.3.aux
-INPUT /home/mustafif/Phaktionz/Dev Plans/V1.3/V1.3.out
-INPUT /home/mustafif/Phaktionz/Dev Plans/V1.3/V1.3.out
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/images/CardTemplate.png
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/images/CardTemplate.png
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/images/CardTemplate.png
+OUTPUT /home/mustafif/Phaktionz/Dev Plans/Plan/V1.1/V1.1.aux
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/V1.1/V1.1.tex
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/V1.1/V1.1.tex
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/images/CPCardTemplate.png
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/images/CPCardTemplate.png
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/images/CPCardTemplate.png
+OUTPUT /home/mustafif/Phaktionz/Dev Plans/Plan/V1.2/V1.2.aux
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/V1.2/V1.2.tex
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/V1.2/V1.2.tex
+OUTPUT /home/mustafif/Phaktionz/Dev Plans/Plan/V1.3/V1.3.aux
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/V1.3/V1.3.tex
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/V1.3/V1.3.tex
+OUTPUT /home/mustafif/Phaktionz/Dev Plans/Plan/V2.4/V2.4.aux
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/V2.4/V2.4.tex
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/V2.4/V2.4.tex
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/Plan.aux
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/V1.1/V1.1.aux
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/V1.1/V1.1.aux
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/V1.2/V1.2.aux
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/V1.2/V1.2.aux
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/V1.3/V1.3.aux
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/V1.3/V1.3.aux
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/V2.4/V2.4.aux
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/V2.4/V2.4.aux
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/Plan.out
+INPUT /home/mustafif/Phaktionz/Dev Plans/Plan/Plan.out
 INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb

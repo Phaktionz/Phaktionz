@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.10.21)  20 JAN 2021 21:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.10.21)  21 JAN 2021 10:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/home/mustafif/Phaktionz/Dev Plans/V1.3/V1.3.tex"
-(/home/mustafif/Phaktionz/Dev Plans/V1.3/V1.3.tex
+**"/home/mustafif/Phaktionz/Dev Plans/Plan/Plan.tex"
+(/home/mustafif/Phaktionz/Dev Plans/Plan/Plan.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
@@ -167,8 +167,8 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 14.
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count188
 \l__pdf_internal_box=\box45
-) (/home/mustafif/Phaktionz/Dev Plans/V1.3/V1.3.aux)
-\openout1 = `V1.3.aux'.
+) (/home/mustafif/Phaktionz/Dev Plans/Plan/Plan.aux (/home/mustafif/Phaktionz/Dev Plans/Plan/V1.1/V1.1.aux) (/home/mustafif/Phaktionz/Dev Plans/Plan/V1.2/V1.2.aux) (/home/mustafif/Phaktionz/Dev Plans/Plan/V1.3/V1.3.aux) (/home/mustafif/Phaktionz/Dev Plans/Plan/V2.4/V2.4.aux))
+\openout1 = `Plan.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
@@ -219,9 +219,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 16.
 LaTeX Info: Redefining \pageref on input line 16.
 LaTeX Info: Redefining \nameref on input line 16.
- (/home/mustafif/Phaktionz/Dev Plans/V1.3/V1.3.out) (/home/mustafif/Phaktionz/Dev Plans/V1.3/V1.3.out)
+ (/home/mustafif/Phaktionz/Dev Plans/Plan/Plan.out) (/home/mustafif/Phaktionz/Dev Plans/Plan/Plan.out)
 \@outlinefile=\write3
-\openout3 = `V1.3.out'.
+\openout3 = `Plan.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
@@ -231,7 +231,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 18.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/mustafif/Phaktionz/Dev Plans/V1.3/V1.3.toc
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/mustafif/Phaktionz/Dev Plans/Plan/Plan.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -240,10 +240,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 3.
 )
 \tf@toc=\write4
-\openout4 = `V1.3.toc'.
+\openout4 = `Plan.toc'.
 
  [2]
-<images/field.png, id=65, 1059.96pt x 819.06pt>
+<images/field.png, id=77, 1059.96pt x 819.06pt>
 File: images/field.png Graphic file (type png)
 <use images/field.png>
 Package pdftex.def Info: images/field.png  used on input line 23.
@@ -254,8 +254,8 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 24.
 See the caption package documentation for explanation.
 
-[3 </home/mustafif/Phaktionz/Dev Plans/V1.3/images/field.png>] [4]
-<images/CardTemplate.png, id=81, 819.06pt x 1059.96pt>
+[3 </home/mustafif/Phaktionz/Dev Plans/Plan/images/field.png>] [4]
+<images/CardTemplate.png, id=93, 819.06pt x 1059.96pt>
 File: images/CardTemplate.png Graphic file (type png)
 <use images/CardTemplate.png>
 Package pdftex.def Info: images/CardTemplate.png  used on input line 91.
@@ -266,42 +266,67 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 92.
 See the caption package documentation for explanation.
 
-[5] [6 </home/mustafif/Phaktionz/Dev Plans/V1.3/images/CardTemplate.png>] [7] [8]
-<images/CPCardTemplate.png, id=106, 819.06pt x 1059.96pt>
+[5] [6 </home/mustafif/Phaktionz/Dev Plans/Plan/images/CardTemplate.png>] [7] [8]
+\openout2 = `V1.1/V1.1.aux'.
+
+ (/home/mustafif/Phaktionz/Dev Plans/Plan/V1.1/V1.1.tex
+<images/CPCardTemplate.png, id=118, 819.06pt x 1059.96pt>
 File: images/CPCardTemplate.png Graphic file (type png)
 <use images/CPCardTemplate.png>
-Package pdftex.def Info: images/CPCardTemplate.png  used on input line 144.
+Package pdftex.def Info: images/CPCardTemplate.png  used on input line 13.
 (pdftex.def)             Requested size: 204.7645pt x 264.98935pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 145.
+(caption)                particular \caption on input line 14.
 See the caption package documentation for explanation.
 
-[9 </home/mustafif/Phaktionz/Dev Plans/V1.3/images/CPCardTemplate.png>] [10]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 191.
- [11]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 191.
- (/home/mustafif/Phaktionz/Dev Plans/V1.3/V1.3.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 191.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 191.
-Package rerunfilecheck Info: File `V1.3.out' has not changed.
-(rerunfilecheck)             Checksum: 2BCAD2FE60E12060DFEE41A44640675E;438.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 191.
+) [9
+
+ </home/mustafif/Phaktionz/Dev Plans/Plan/images/CPCardTemplate.png>]
+\openout2 = `V1.2/V1.2.aux'.
+
+ (/home/mustafif/Phaktionz/Dev Plans/Plan/V1.2/V1.2.tex) [10
+
+
+]
+\openout2 = `V1.3/V1.3.aux'.
+
+ (/home/mustafif/Phaktionz/Dev Plans/Plan/V1.3/V1.3.tex) [11
+
+
+]
+\openout2 = `V2.4/V2.4.aux'.
+
+ (/home/mustafif/Phaktionz/Dev Plans/Plan/V2.4/V2.4.tex) [12
+
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 142.
+ [13
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 142.
+ (/home/mustafif/Phaktionz/Dev Plans/Plan/Plan.aux (/home/mustafif/Phaktionz/Dev Plans/Plan/V1.1/V1.1.aux) (/home/mustafif/Phaktionz/Dev Plans/Plan/V1.2/V1.2.aux) (/home/mustafif/Phaktionz/Dev Plans/Plan/V1.3/V1.3.aux) (/home/mustafif/Phaktionz/Dev Plans/Plan/V2.4/V2.4.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 142.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 142.
+Package rerunfilecheck Info: File `Plan.out' has not changed.
+(rerunfilecheck)             Checksum: 3CE7D4DEBC5EE37DDC648E05DCECEE4B;553.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 142.
  ) 
 Here is how much of TeX's memory you used:
- 6369 strings out of 481239
- 102015 string characters out of 5920376
- 359166 words of memory out of 5000000
- 21516 multiletter control sequences out of 15000+600000
+ 6427 strings out of 481239
+ 103777 string characters out of 5920376
+ 360572 words of memory out of 5000000
+ 21534 multiletter control sequences out of 15000+600000
  537843 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,42p,255b,500s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,6n,43p,255b,500s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on "/home/mustafif/Phaktionz/Dev Plans/V1.3/V1.3.pdf" (11 pages, 187610 bytes).
+Output written on "/home/mustafif/Phaktionz/Dev Plans/Plan/Plan.pdf" (13 pages, 189125 bytes).
 PDF statistics:
- 149 PDF objects out of 1000 (max. 8388607)
- 124 compressed objects within 2 object streams
- 34 named destinations out of 1000 (max. 500000)
- 80 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 173 PDF objects out of 1000 (max. 8388607)
+ 146 compressed objects within 2 object streams
+ 38 named destinations out of 1000 (max. 500000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
 
