@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.10.21)  21 JAN 2021 13:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.10.21)  21 JAN 2021 13:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -242,8 +242,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write4
 \openout4 = `Plan.toc'.
 
- [2] [3]
-<images/field.png, id=232, 1059.96pt x 819.06pt>
+ [2]
+<images/field.png, id=137, 1059.96pt x 819.06pt>
 File: images/field.png Graphic file (type png)
 <use images/field.png>
 Package pdftex.def Info: images/field.png  used on input line 23.
@@ -254,8 +254,8 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 24.
 See the caption package documentation for explanation.
 
-[4 </home/mustafif/Phaktionz/Dev Plans/Plan/images/field.png>] [5]
-<images/CardTemplate.png, id=248, 819.06pt x 1059.96pt>
+[3 </home/mustafif/Phaktionz/Dev Plans/Plan/images/field.png>] [4]
+<images/CardTemplate.png, id=154, 819.06pt x 1059.96pt>
 File: images/CardTemplate.png Graphic file (type png)
 <use images/CardTemplate.png>
 Package pdftex.def Info: images/CardTemplate.png  used on input line 91.
@@ -266,8 +266,8 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 92.
 See the caption package documentation for explanation.
 
-[6] [7 </home/mustafif/Phaktionz/Dev Plans/Plan/images/CardTemplate.png>] [8] [9] (/home/mustafif/Phaktionz/Dev Plans/Plan/V1.1/V1.1.tex
-<images/CPCardTemplate.png, id=273, 819.06pt x 1059.96pt>
+[5] [6 </home/mustafif/Phaktionz/Dev Plans/Plan/images/CardTemplate.png>] [7] [8] (/home/mustafif/Phaktionz/Dev Plans/Plan/V1.1/V1.1.tex
+<images/CPCardTemplate.png, id=179, 819.06pt x 1059.96pt>
 File: images/CPCardTemplate.png Graphic file (type png)
 <use images/CPCardTemplate.png>
 Package pdftex.def Info: images/CPCardTemplate.png  used on input line 13.
@@ -278,8 +278,8 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 14.
 See the caption package documentation for explanation.
 
-) [10 </home/mustafif/Phaktionz/Dev Plans/Plan/images/CPCardTemplate.png>] (/home/mustafif/Phaktionz/Dev Plans/Plan/V1.2/V1.2.tex) [11] (/home/mustafif/Phaktionz/Dev Plans/Plan/V1.3/V1.3.tex) [12] (/home/mustafif/Phaktionz/Dev Plans/Plan/V2.4/V2.4.tex
-<images/FV2.4.png, id=291, 1059.96pt x 819.06pt>
+) [9 </home/mustafif/Phaktionz/Dev Plans/Plan/images/CPCardTemplate.png>] (/home/mustafif/Phaktionz/Dev Plans/Plan/V1.2/V1.2.tex) [10] (/home/mustafif/Phaktionz/Dev Plans/Plan/V1.3/V1.3.tex) [11] (/home/mustafif/Phaktionz/Dev Plans/Plan/V2.4/V2.4.tex
+<images/FV2.4.png, id=196, 1059.96pt x 819.06pt>
 File: images/FV2.4.png Graphic file (type png)
 <use images/FV2.4.png>
 Package pdftex.def Info: images/FV2.4.png  used on input line 14.
@@ -290,45 +290,45 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 15.
 See the caption package documentation for explanation.
 
-) [13 </home/mustafif/Phaktionz/Dev Plans/Plan/images/FV2.4.png>] (/home/mustafif/Phaktionz/Dev Plans/Plan/Factions/Factions.tex (/home/mustafif/Phaktionz/Dev Plans/Plan/Factions/Origins/Origins.tex
+) [12 </home/mustafif/Phaktionz/Dev Plans/Plan/images/FV2.4.png>] (/home/mustafif/Phaktionz/Dev Plans/Plan/Factions/Factions.tex (/home/mustafif/Phaktionz/Dev Plans/Plan/Factions/Origins/Origins.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--6
 
  []
 
-) [14] (/home/mustafif/Phaktionz/Dev Plans/Plan/Factions/Delphics/Delphics.tex
+) [13] (/home/mustafif/Phaktionz/Dev Plans/Plan/Factions/Delphics/Delphics.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--6
 
  []
 
-) [15] (/home/mustafif/Phaktionz/Dev Plans/Plan/Factions/Modernas/Modernas.tex
+) [14] (/home/mustafif/Phaktionz/Dev Plans/Plan/Factions/Modernas/Modernas.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--7
 
  []
 
-) [16]) [17]
+) [15]) [16]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 192.
- [18]
+ [17]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 192.
  (/home/mustafif/Phaktionz/Dev Plans/Plan/Plan.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 192.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 192.
 Package rerunfilecheck Info: File `Plan.out' has not changed.
-(rerunfilecheck)             Checksum: 74D66F5BF88515C5707D0870C5E24278;2164.
+(rerunfilecheck)             Checksum: 68B69E93BD73A7A63300F72C768A5A98;1140.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 192.
  ) 
 Here is how much of TeX's memory you used:
- 6491 strings out of 481239
- 104780 string characters out of 5920376
- 363172 words of memory out of 5000000
- 21556 multiletter control sequences out of 15000+600000
+ 6475 strings out of 481239
+ 104338 string characters out of 5920376
+ 360172 words of memory out of 5000000
+ 21541 multiletter control sequences out of 15000+600000
  537843 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,6n,42p,255b,500s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on "/home/mustafif/Phaktionz/Dev Plans/Plan/Plan.pdf" (18 pages, 240508 bytes).
+Output written on "/home/mustafif/Phaktionz/Dev Plans/Plan/Plan.pdf" (17 pages, 238103 bytes).
 PDF statistics:
- 353 PDF objects out of 1000 (max. 8388607)
- 317 compressed objects within 4 object streams
- 69 named destinations out of 1000 (max. 500000)
- 301 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 273 PDF objects out of 1000 (max. 8388607)
+ 239 compressed objects within 3 object streams
+ 68 named destinations out of 1000 (max. 500000)
+ 181 words of extra memory for PDF output out of 10000 (max. 10000000)
 
