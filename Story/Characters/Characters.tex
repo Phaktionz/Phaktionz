@@ -1,0 +1,53 @@
+\documentclass[12pt, letterpaper]{article}
+\title{Phaktionz Character Profiles}
+\author{Casual Card Cafe | Phaktionz Story Commitee}
+\date{Version 1.0}
+\usepackage{color}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{caption}
+\hypersetup{
+colorlinks=true, % make the links colored
+linkcolor=black, % color TOC links in blue
+urlcolor=red, % color URLs in red
+linktoc=all % 'all' will create links for everything in the TOC
+}
+\begin{document}
+\maketitle % Makes title page 
+\pagenumbering{arabic}
+\newpage
+\tableofcontents
+\newpage
+    %Characters will be ordered via their appearances, then by role
+    %This order is found in Notes/factions_sheet.ods
+    %All Characters will be found in Characters/Name.tex
+    %All Character files are named by First Name
+    %Version is based on changes either major or minor. 
+    % Version M.m is Major and minor:
+        %Major is removing or adding new character
+        %Minor is editing a small detail of a character
+        %Main difference is it's impact on story. 
+
+    %With Characters, it has the following format (on Name.tex): 
+    %\section{ Character Name}
+    %\begin{itemize}
+        %\item Age: 
+        %\item Gender:
+        %\item Faction: 
+            %\begin{enumerate}
+                %\item Faction Name
+            %\end{enumerate}
+        %\item Decks: 
+            %\begin{enumerate}
+                %\item Faction - Deck Name
+            %\end{enumerate}
+        %\item Role: 
+        %\item Appearance: 
+        %\item Description: 
+    %\end{itemize}
+    %\newpage
+
+    %Character inputs here%
+    \input{Characters/Zane}
+    \input{Characters/Lulo}
+\end{document} 
