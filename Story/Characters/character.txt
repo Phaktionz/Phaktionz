@@ -1,0 +1,17 @@
+\section{ Character Name}
+    \begin{itemize}
+        \item Age: 
+        \item Gender:
+        \item Faction: 
+            \begin{enumerate}
+                \item Faction Name
+            \end{enumerate}
+        \item Decks: 
+            \begin{enumerate}
+                \item Faction - Deck Name
+            \end{enumerate}
+        \item Role: 
+        \item Appearance: 
+        \item Description: 
+    \end{itemize}
+    \newpage

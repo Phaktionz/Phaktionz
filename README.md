@@ -2,10 +2,11 @@
 This will contain development plans of Phaktionz Trading Card Game. 
 
 
-TODO List 
-- V1.3 Level UP Card Template, Update V1.3.tex With LUCTemp.png
-- Work on Factions seciton, Categories and details. 
-- Work and Make S1 & S2 Concepts 
-- Update Cards with Character Decks
-- Work on App, (Node.js) and work on index.html
+- Go to Monday for assignments, and check your assigned one. 
+
+- Dates aren't necessarily due dates but rather to measure how long it may take us to complete the task. 
+
+- Before beginning to work, first pull to get any new changes, and before committing to pull again to see if any new changes occured. 
+
+- Remember to commit and give a short description of your work, then push. 
 
