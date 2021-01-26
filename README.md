@@ -10,3 +10,6 @@ This will contain development plans of Phaktionz Trading Card Game.
 
 - Remember to commit and give a short description of your work, then push. 
 
+- Script at Story/Script
+- Episode Concept at Story/Concepts
+- Character Profiles at Story/Characters
