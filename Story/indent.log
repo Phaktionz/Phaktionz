@@ -1,9 +1,9 @@
 INFO: latexindent version 3.7.1, 2019-09-07, a script to indent .tex files
       latexindent lives here: /usr/share/texlive/texmf-dist/scripts/latexindent/
-      Tue Jan 26 12:01:26 2021
-      Filename: /home/mustafif/Phaktionz/Story/Characters/Characters/Finn.tex
+      Tue Jan 26 18:44:25 2021
+      Filename: /home/mustafif/Phaktionz/Story/Concepts/S1/Episodes/Ep5.tex
 INFO: Processing switches:
-INFO: Directory for backup files and indent.log: /home/mustafif/Phaktionz/Story/Characters/Characters
+INFO: Directory for backup files and indent.log: /home/mustafif/Phaktionz/Story/Concepts/S1/Episodes
 INFO: YAML settings read: defaultSettings.yaml
       Reading defaultSettings.yaml from /usr/share/texlive/texmf-dist/scripts/latexindent/defaultSettings.yaml
 INFO: YAML settings read: indentconfig.yaml or .indentconfig.yaml
