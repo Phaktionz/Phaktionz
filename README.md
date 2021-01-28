@@ -1,7 +1,7 @@
 # Phaktionz
 This will contain development plans of Phaktionz Trading Card Game. 
 
-#What To Do
+# What To Do
 - Go to Monday for assignments, and check your assigned one. 
 
 - Dates aren't necessarily due dates but rather to measure how long it may take us to complete the task. 
