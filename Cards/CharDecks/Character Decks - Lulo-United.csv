@@ -1,0 +1,47 @@
+Qty,Tier,Type,Name,Dmg,Ability
+2,3,S,"Waroko Loko, King Giant",6,"United (""This Summon has United in its name"")
+L/2: Demote an ""United"" summon of yours, or exile one in 
+the end zone; Demote a Tier 2 or less summon of your
+opponent's. "
+2,3,T,Lin the Fantastic Elf,5,"United (""This Summon has United in its name"")
+[Discard a Tier 3]: look at the top 3 cards of your deck, 
+if there's a card with ""United"", place it and shuffle. 
+If you control 3 or more ""United"" summon on the battlefield, 
+this summon can battle twice. "
+4,2,S,Hu the Fantastic Elf,4,"United (""This Summon has United in its name"")
+If your opponent is dealt damage by an ""United"" summon, 
+this summon gains Dmg +1. 
+"
+4,2,S,"Kanko Loko, Prince Giant",4,"United (""This Summon has United in its name"")
+Royalty salted with its own bitterness, we ask what's rest 
+and they say leave us to our riches!"
+4,2,T,Sinth The Brave Men,3,"If your opponent is dealt damage by an ""United"" summon, 
+add a summon from your end zone to your hand.  
+"
+2,1,S,The Invocated Dwarf,2,"(In Hand) L/1: You can discard this card to fizzle an 
+invocation"
+2,1,S,The United Men,2,"L/1: When placed, look for an ""United"" summon in 
+your deck"
+2,1,S,The Enchanted Deer ,2,"When an ""United"" summon is placed, draw 
+a card and discard a card. "
+2,1,S,Haka Goblin,2,"United (""This Summon has United in its name"")
+The mischief and trouble of a migit is tragic to its ending"
+4,1,T,The Strong Dwarf,1,"(In Hand) L/1: You can discard this card to fizzle a battle 
+against a summon of yours "
+4,1,T,The Enchanted Lion ,1,It roars till tomorrows past
+4,1,T,Waka Goblin,1,"United (""This Summon has United in its name"")
+We see the days past us until we have passed the day"
+Invocations,,,,,
+1,Limited,Regular,Triatic Trouble,"L1: Every Player takes 3 damage, then each demotes a 
+summon. If all players do, place a tier 3 from your hand. ",
+3,,Counter,Type Change ,"You can choose a summon to become its other type, 
+for the rest of the turn. ",
+3,,Regular,United Assault,"Deal Damage to your opponent equal to the amount of 
+""United"" summons you control on the battlefield.",
+2,,Weapons,Helio's United Fragment,"(This  can only be attatched to a ""United"" summon); 
+L/1: Fizzle an ability and if so, add an ""United"" summon 
+from your end zone. ",
+4,,Counter,Till Tomorrow's Promise ,"Demote a summon to fizzle an ability. When an ability 
+is fizzled, no other cards ability can be used in response. ",
+1,,Realm,United Front,"L/1: You can place an ""United""summon for a Tier 
+less cost. ",
