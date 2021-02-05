@@ -1,0 +1,36 @@
+Qty,Tier,Type,Name,Dmg,Ability
+4,3,S,Hulio Intellidore the Elder Elf,7,"L/2: When you cast an invocation, use Reinforcement. 
+When a summon, is placed by hand during the combat
+phase, you can add a summon or invocation from your
+deck out pile to your hand. 
+This summon cannot be used for Reinforcement"
+4,2,S,Notho the Warrior Elf,4,"When this summon is placed by Reinforcement, this 
+summon gains DMG +1. "
+4,2,T,Minitu the Wise Elf,3,"When this summon is placed by Reinforcement, draw a 
+card"
+4,2,T,Viol the Tactitcal Elf,3,"When this summon is placed by Reinforcement, you 
+can search for a Tier 1 in your deck or deck out pile. "
+4,1,S,Biblio the Fierce Elf,2,"When placed by Reinforcement Dmg +1 to any of your 
+summons. "
+4,1,S,Nimo the Elf Inspirer,2,"When placed by Reinforcement , make a summon on 
+your battlefield be able to battle twice. "
+4,1,T,Sorthin the Warrior Elf,1,"L/1: When placed by Reinforcement, use Reinforcement"
+4,1,T,The Invocated Elf,1,"When placed by Reinforcement, search for an invocation
+from your deck or deck out pile. "
+4,1,T,Tito the Sniped Elf,1,"When placed by Reinforcement, decrease an opponent's 
+summon by 1. "
+Invocations,,,,,
+1,,Regular,Triatic Trouble,,"L1: Every Player takes 3 damage, then each demotes a 
+summon. If all players do, place a tier 3 from your hand. "
+2,,Regular,Elvish Assault,,"If you control 3 or more ""Elf"" Summons add a Tier 2 or 
+lower from your deck out pile to your hand"
+3,,Regular,Elf Unity ,,"Summons you control gain Dmg X - 2, where X is the 
+amount of ""Elf"" summons on the battlefield."
+3,,Weapon,Helio's Shattered Blade,,"When the attatched summon deals damage to  the 
+opponent, make them demote a summon on the battlefield.
+The attatched summon is unaffected by opponents abilities"
+4,,Counter,Till Tomorrow's Promise ,,"Demote a summon to fizzle an ability. When an ability 
+is fizzled, no other cards ability can be used in response. "
+1,,Realm,Reinforced Batallion,,"Whenever a summon is placed, put 2 counters on this card
+During your combat phase, you can remove 5 counters 
+to use Reinforcement. "

@@ -1,0 +1,42 @@
+Qty,Tier,Type,Name,Dmg,Ability,
+4,3,S,Lyzor the Forbidden Lord,6,"[Must be placed by demoting 2 Plague summons on each battlefield]
+L/1: Plague X/2, where X is the amount of exiled summons every
+ player controls. 
+This summon gains DMG + (X - 5), where X is the amount of exiled 
+summon every player controls. 
+When a Plague summon is demoted, exile it instead. 
+Plague: Put a counter on a Tier 2 or below summon on all battlefields, the 
+summons will be exiled in 2 turns. ",
+4,3,T,Kyu the Forbidden Follower,5,"[Must be placed by demoting 2 Plague summons on the battlefield]
+When a summon is Plague, return an exile summon or invocation from
+the exile zone to your hand. 
+This summon can only battle Plague summons, and placed as Tier 2",
+4,3,T,Liro the Fordidden Follower,5,"[Must be placed by demoting 2 Plague summons on each battlefield]
+While this summon is on the battlefield, Plague is reduced 
+to one turn instead of two. 
+This summon can only battle Plague summons, and placed as Tier 2",
+4,3,T,Iki the Forbidden Follower,5,"[Must be placed by demoting 2 Plague summons on each battlefield]
+While this summon is on the battlefield, you can place or cast from 
+your deck out pile, if so exile them when casted or leave the battlefield. 
+This summon can only battle Plague summons, and placed as Tier 2",
+4,1,S,The Forbidden Exiled Elf ,2,"Nothing is yet to be given when Forbidden. Exiled and forgotten, he lives, 
+but in history he doesn't, to live and be forgotten, that is the life of 
+forbiddens. ",
+4,1,S,The Forbidden Dwarf,2,"When this summon is exiled, return an exiled summon or invocation to the 
+deck out pile", 
+4,1,T,Forbidden Summoner,1,"When this summon is Plague, place a Tier 1 from your exile zone to your 
+battlefield but exile it at the end of the turn. ",
+4,1,T,Plagued Elf,1,"When this summon is exiled, deal DMG to your opponent equal to the 
+Plague summons exiled this turn",
+4,1,T,Wicked Goblin,1,"When placed, add a Tier 3 from your Deck, or Exile Zone to your Hand. ",
+Invocations,,,,,,
+4,,Regular,Wicked Forbidden Strength,,"L/1:All Summons you control gain DMG equal to all Exiled Summons in 
+the Exile Zones.",
+3,,Regular,Forbidden Strength,,"L/1: A Summon you control gain DMG equal to the amount of Plague 
+counters on the Battlefield. ",
+3,,Counter,Sickened Torture,,Fizzle an ability by giving an Opponent's Summon a Plague counter. ,
+3,,Counter,The Forbidden Act,,"Exile a Summon with a Plague counter, and if so Fizzle an ability. ",
+1,,Realm,Forbidden Lands,,"Whenever a Summon is placed by demoting: Plague; if so that Summon 
+cannot be demoted. 
+Whenver a Summon is placed, add a counter to this card. 
+Remove 3 counters: Plague or Exile a Summon with a Plague counter. ",

@@ -1,0 +1,36 @@
+Qty,Tier,Type,Name,Dmg,Ability
+4,2,S,"Fulthrottle, the 
+Dragonic Warrior",4,"This summon and your Tier 1 summons gain DMG +1 if 
+there's a summon on the opponent's battlefield"
+4,2,S,The Unfornate Warrior,4,"I heard a call for help, so I ignored it ,
+now my village is taken, they'll suffer."
+4,2,T,"Blate, the Helping Sword",3,"When this summon deals damage, add a Tier 1 from your 
+Deck Out Pile to your hand. "
+4,2,T,Berserker Guardian,3,"When this summon deals damage, for your next turn it's 
+DMG becomes 5"
+4,1,S,Defense Guard,2,"Your opponent cannot battle other summons you control, 
+except ""Defense Guard""."
+4,1,S,The Reinforced Warrior,2,"For once a day has been passed on, the battlefield calls, 
+and yet no answer has been noted upon. "
+4,1,T,"Callisto the 
+Hinded Warrior",1,L/1: Give a summon you control DMG +1
+4,1,T,Chiken of Good Skills,1,"When placed one of your other summons gains DMG +1
+if you control 3 or more summons."
+4,1,T,"Fortunate Squire, Blitz",1,"The Squire may believe in the present's little mess, but 
+today he may prove his worth in a battle. "
+4,,Regular,Arrow Storm,,"
+Mill X cards from your deck and decrease opponent's 
+summons DMG by 2X."
+3,,Regular,"One Last Time
+",,"
+Mill X+2 cards from your Deck and place X summons 
+on the Battlefield from your Deck Out Pile. 
+"
+3,,Weapon,Inflicting Sword,,"When battles if DMG is the same as the opponent's,
+deal DMG equal to your summons.
+Else, do DMG equal to your opponent’s summon DMG. "
+3,,Counter,The Spartian Approach ,,"L/1: When your Tier 2+ summon battles, all your Tier 1s'
+gain DMG +1. "
+1,,Realm,The Warrior's Path,,"During the Combat Phase, if you control more summons
+than your opponent, a summon you control gains DMG
+equal to the difference, "
